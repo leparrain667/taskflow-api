@@ -63,7 +63,7 @@ User (1) ────< Project (N) ────< TaskItem (N)
 ```bash
 # 1. Cloner le dépôt
 git clone https://github.com/leparrain667/taskflow-api.git
-cd taskflow-api/taskflow-api.git
+
 cd taskflow-api/TaskFlow.API
 
 # 2. Restaurer les dépendances
